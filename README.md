@@ -2,6 +2,7 @@
 
 A production-structured OCR application using FastAPI, EasyOCR, and React.
 
+
 ## Project Structure
 ```
 ocr-demo/
